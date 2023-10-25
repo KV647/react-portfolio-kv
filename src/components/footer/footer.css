@@ -1,6 +1,6 @@
 .footer {
     position: fixed;
-    left: 45%;
+    left: 75%;
     bottom: 0;
     transform: translateX(-50%);
     padding: 10px;
@@ -10,7 +10,7 @@
 
 .footer2 {
     position: fixed;
-    left: 50%;
+    left: 80%;
     bottom: 0;
     transform: translateX(-50%);
     padding: 10px;
@@ -20,7 +20,7 @@
 
 .footer3 {
     position: fixed;
-    left: 55%;
+    left: 85%;
     bottom: 0;
     transform: translateX(-50%);
     padding: 10px;

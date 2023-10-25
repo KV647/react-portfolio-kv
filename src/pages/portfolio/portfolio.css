@@ -6,3 +6,35 @@
     padding-left : 20px;
     padding-right : 20px;
   }
+
+  .portfolio-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  
+  .portfolio-item {
+    flex: 0 1 calc(40% - 20px);
+    border: 1px solid #ddd;
+    padding: 20px;
+    box-shadow: 2px 2px 8px rgba(0, 0, 0, 0.1);
+    background-color: #333;
+  }
+  
+  .portfolio-item img {
+    width: 100%;
+    height: auto;
+    margin-bottom: 10px;
+  }
+  
+  .portfolio-item a {
+    display: block;
+    margin-top: 10px;
+    color: #007BFF;
+    text-decoration: none;
+  }
+  
+  .portfolio-item a:hover {
+    text-decoration: underline;
+  }
+  

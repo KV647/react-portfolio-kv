@@ -26,7 +26,7 @@ function App() {
       case 'Home':
         return Home();
       case 'Portfolio':
-        return Portfolio();
+        return <Portfolio />;
       case 'Contact':
         return <ContactForm />;
       default:
