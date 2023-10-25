@@ -1,5 +1,5 @@
 // import { BrowserRouter as Router, Route, Switch } from 'react-router-dom';
-import { Component, useState } from 'react'
+import { useState } from 'react'
 import './App.css'
 
 // components
@@ -10,7 +10,6 @@ import Footer from './components/footer/footer'
 // pages
 import Home from './pages/home/home';
 import Portfolio from './pages/portfolio/portfolio'
-import Contact from './pages/contact/contact'
 import ContactForm from './pages/contact/contact'
 import Resume from './pages/resume/resume'
 
