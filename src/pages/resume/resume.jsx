@@ -4,7 +4,7 @@ import './resume.css';
 const Resume = () => {
   return <p className='HomeP4'>
 
-<a href="./build/My-Resume.pdf" download>Download my resume</a>
+<a href="./dist/My-Resume.pdf" download>Download my resume</a>
   <ul>
   <h1>Front-end</h1>
     <li>HTML</li>

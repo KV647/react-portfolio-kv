@@ -4,37 +4,37 @@ import './portfolio.css';
 const portfolioItems = [
   {
     title: "Jate",
-    imageUrl: "./build/pwa.png",
+    imageUrl: "./dist/pwa.png",
     deployedUrl: "https://afternoon-sierra-89331-581330ee184e.herokuapp.com/",
     githubUrl: "https://github.com/KV647/pwa-kv"
   },
   {
     title: "Time-Scheduler",
-    imageUrl: "./build/time.png",
+    imageUrl: "./dist/time.png",
     // deployedUrl: "https://afternoon-sierra-89331-581330ee184e.herokuapp.com/",
     githubUrl: "https://github.com/KV647/TimeSchedulerKV"
   },
   {
     title: "Code Quiz",
-    imageUrl: "./build/quiz2.png",
+    imageUrl: "./dist/quiz2.png",
     // deployedUrl: "https://afternoon-sierra-89331-581330ee184e.herokuapp.com/",
     githubUrl: "https://github.com/KV647/CodeQuizKV2"
   },
   {
     title: "Employee Tracker",
-    imageUrl: "./build/tracker.png",
+    imageUrl: "./dist/tracker.png",
     deployedUrl: "https://drive.google.com/file/d/1wvI_tObvAcRT7EXJdfysT93C63dqtF_v/view",
     githubUrl: "https://github.com/KV647/EmployeeTrackerKV"
   },
   {
     title: "Travel Planned",
-    imageUrl: "./build/travelplanned.png",
+    imageUrl: "./dist/travelplanned.png",
     deployedUrl: "https://blam1226.github.io/Travel-Planner/",
     githubUrl: "https://github.com/BLam1226/Travel-Planner"
   },
   {
     title: "Jate",
-    imageUrl: "./build/pwa.png",
+    imageUrl: "./dist/pwa.png",
     deployedUrl: "https://afternoon-sierra-89331-581330ee184e.herokuapp.com/",
     githubUrl: "https://github.com/KV647/pwa-kv"
   }
