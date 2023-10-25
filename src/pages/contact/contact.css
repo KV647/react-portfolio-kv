@@ -7,7 +7,7 @@
     padding-right : 20px;
   }
 
-  /* Overall form styling */
+
 form {
     width: 300px;
     font-family: Arial, sans-serif;
@@ -18,7 +18,7 @@ form {
     padding-right: 50px;
   }
   
-  /* Styling for each input field and the textarea */
+
   form input[type="text"],
   form input[type="email"],
   form textarea {
@@ -30,20 +30,20 @@ form {
     font-size: 14px;
   }
   
-  /* Textarea specific styling */
+
   form textarea {
     height: 100px;
     resize: vertical;
   }
   
-  /* Label styling */
+  
   form label {
     font-weight: bold;
     display: block;
     margin-top: 10px;
   }
   
-  /* Submit button styling */
+
   form button[type="submit"] {
     background-color: #007BFF;
     color: white;
