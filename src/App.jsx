@@ -12,6 +12,7 @@ import Home from './pages/home/home';
 import Portfolio from './pages/portfolio/portfolio'
 import Contact from './pages/contact/contact'
 import ContactForm from './pages/contact/contact'
+import Resume from './pages/resume/resume'
 
 function App() {
   const [currentPage, setCurrentPage] = useState('Home');
@@ -29,6 +30,8 @@ function App() {
         return <Portfolio />;
       case 'Contact':
         return <ContactForm />;
+      case 'Resume':
+        return <Resume />;
       default:
         return Home();
     }
