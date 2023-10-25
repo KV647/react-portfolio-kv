@@ -11,6 +11,7 @@ import Footer from './components/footer/footer'
 import Home from './pages/home/home';
 import Portfolio from './pages/portfolio/portfolio'
 import Contact from './pages/contact/contact'
+import ContactForm from './pages/contact/contact'
 
 function App() {
   const [currentPage, setCurrentPage] = useState('Home');
@@ -27,7 +28,7 @@ function App() {
       case 'Portfolio':
         return Portfolio();
       case 'Contact':
-        return Contact();
+        return <ContactForm />;
       default:
         return Home();
     }
@@ -49,12 +50,4 @@ function App() {
   )
 }
 
-
-
-
-
-
 export default App
-
-
-
