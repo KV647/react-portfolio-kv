@@ -3,7 +3,7 @@ import './home.css';
 
 const Home = () => {
   return <p className='HomeP'>
-  Hi, I'm Keller Vicino. I am a full stack web developer looking for every opportunity to learn something new. Soon to graduate Upenn's full stack bootcamp.
+  Hi, I'm Keller Vicino. I am a full stack web developer looking for every opportunity to learn something new. Alumni at Upenn's full stack bootcamp.
 </p>;
 }
 
