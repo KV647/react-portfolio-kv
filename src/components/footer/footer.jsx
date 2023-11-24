@@ -10,7 +10,7 @@ function Footer () {
         <a href="https://stackoverflow.com/users/22803815/kv647">
         <img className='footer2' src="/stack.png"></img>
         </a>
-        <a href="https://www.linkedin.com/in/keller-vicino-8a17ba22a/">
+        <a href="https://www.linkedin.com/in/keller-vicino-5323b02a1/">
         <img className='footer3' src="/LI-In-Bug.png"></img>
         </a>
     </div>

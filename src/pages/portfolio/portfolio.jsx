@@ -15,10 +15,10 @@ const portfolioItems = [
     githubUrl: "https://github.com/KV647/TimeSchedulerKV"
   },
   {
-    title: "Code Quiz",
-    imageUrl: "/quiz2.png",
-    // deployedUrl: "https://afternoon-sierra-89331-581330ee184e.herokuapp.com/",
-    githubUrl: "https://github.com/KV647/CodeQuizKV2"
+    title: "Beat Sphere",
+    imageUrl: "/BeatSphere.png",
+    deployedUrl: "https://beat-sphere-be92cb90b28f.herokuapp.com/",
+    githubUrl: "https://github.com/BLam1226/BeatSphere"
   },
   {
     title: "Employee Tracker",
